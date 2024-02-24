@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy bypass -File C:\Scripts\duplicati_healthcheck_post.ps1 %DUPLICATI__PARSED_RESULT% %DUPLICATI__RESULTFILE%
